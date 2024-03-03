@@ -1,11 +1,29 @@
-.navbar{
+.navbar {
     background-color: rgb(54, 163, 196);
-    
-
 }
 
 
 /* Tamaño imagen avion Navbar */
 .img-navbar {
     width: 30px;
-    }
+}
+
+/* Estilos Body */
+
+Body {
+    background-color: black;
+}
+
+/* Fin estilos body */
+
+/* Inicio CSS Seccion Quienes somos -CARD- */
+
+.card-s1{
+background-color: black;
+}
+
+.card-img {
+    background-color: rgb(54, 163, 196)
+}
+
+/* Fin CSS Seccion Quienes somos -CARD- */
