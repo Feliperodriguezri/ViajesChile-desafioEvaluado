@@ -18,8 +18,8 @@ Body {
 
 /* Inicio CSS Seccion Quienes somos -CARD- */
 
-.card-s1{
-background-color: black;
+.card-s1 {
+    background-color: black;
 }
 
 .card-img {
@@ -27,3 +27,12 @@ background-color: black;
 }
 
 /* Fin CSS Seccion Quienes somos -CARD- */
+
+/* Inicio CSS Seccion 2 Destacados -CARD */
+.card-body-s2 {
+    background-color:rgb(54, 163, 196);
+}
+
+
+
+/* Fin CSS Seccion 2 Destacados -CARD */
