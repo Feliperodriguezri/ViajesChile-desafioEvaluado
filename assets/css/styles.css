@@ -1,7 +1,18 @@
-.navbar {
-    background-color: rgb(54, 163, 196);
+html {
+    font-family: "Roboto", sans-serif;
 }
 
+/* .navbar {
+    position: relative;
+    z-index: 1000; */
+    /* background-color: rgb(54, 163, 196); */
+/* } */
+
+/* #carouselExampleIndicators {
+    position: relative;
+    z-index: 0;
+} */
+    /* **** no funciona nada!!! */
 
 /* Tamaño imagen avion Navbar */
 .img-navbar {
